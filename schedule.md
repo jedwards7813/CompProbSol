@@ -9,12 +9,28 @@
 |Jan 21	| Importing and Exporting Data/Some debugging tips	|[MATLAB Doc](https://www.mathworks.com/help/matlab/data_analysis/importing-and-exporting-data.html), `PresentIO.mlx` | Problem #4 |	Problem #3 Finished |
 | Jan 23 |Structures and Tables | [MATLAB Structures](https://www.mathworks.com/help/matlab/matlab_prog/create-a-structure-array.html), [MATLAB Table](https://www.mathworks.com/help/matlab/tables.html), `PresentStructures.mlx` | Problem #4a | |
 |Jan 28	| Visualizations		|[MATLAB Doc](https://www.mathworks.com/products/matlab/plot-gallery.html), [ThingSpeak](https://www.mathworks.com/help/thingspeak/index.html?s_tid=CRUX_lftnav), `PresentVisual.mlx`| Problem 4/4a/4b Wrap-up||
-|Jan 30 | Control Statements |  [MATLAB Doc](http://www.mathworks.com/help/matlab/)| Problem 5 | Problem 4/4a/4b Finished	|	
-|Feb 4 |	Writing Functions in MATLAB | [MATLAB Functions](https://www.mathworks.com/help/matlab/ref/function.html) | Problem 5a|		|
-|Feb 6 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html)|Problem 2b, Problem 5b | ||
-|Feb 11 | Project 1 Introduction and outline | | Project #1, Install Python | Problem 5/5a finished |
-|Feb 13 |Introduction to Python | [Python Loops](https://docs.python.org/3/tutorial/controlflow.html), [matplotlib Doc](https://matplotlib.org/users/pyplot_tutorial.html), |Problem 6 | Python Installed|
-|Feb 18 | Python Data Types and Data Structures| [pandas Doc](http://pandas.pydata.org/pandas-docs/stable/) | ||
+|Jan 30 | Control Statements |  [MATLAB Doc](http://www.mathworks.com/help/matlab/), `PresentControl.mlx`| Problem 2b | Problem 4/4a/4b Finished	|	
+|Feb 4 |	Writing Functions in MATLAB | [MATLAB Functions](https://www.mathworks.com/help/matlab/ref/function.html), `PresentFunction.mlx` | Problem 5|		|
+|Feb 6 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html),`PresentError.mlx`|Problem 5 |Problem 2b finished|
+|Feb 11 | Project 1 Introduction and outline | Project 1 | Project #1, Install Python | Problem 5 finished |
+|Feb 13 |Introduction to Python | [Python Loops](https://docs.python.org/3/tutorial/controlflow.html), [matplotlib Doc](https://matplotlib.org/users/pyplot_tutorial.html), `PresentArrays.ipynb`, `PresentVisual.ipynb` |Problem 6 | Python Installed|
+|Feb 18|Functions in Python (Writing your own Packages) | [Python Functions](https://www.tutorialspoint.com/python/python_functions.htm)|Problem 6a||
+|Feb 20 | Python Data Types and Data Structures|[Python Data Structures](https://docs.python.org/3/tutorial/datastructures.html), [pandas Doc](http://pandas.pydata.org/pandas-docs/stable/)  | |Problem 6/6a finished|
+|Feb 25| The Pandas package|[Pandas dataframe](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html)||Email Final Project Topic |
+|Feb 27| Midterm Exam ||||
+|Spring Break Week| ||||
+|Mar 10 |Numerical Derivatives | [Computational Physics Book Chapter 5](http://www-personal.umich.edu/~mejn/cp/chapters/int.pdf) | Numerical Derivative Powerpoint on Blackboard||
+|Mar 12 |Numerical Integration|[Computational Physics Book Chapter 5](http://www-personal.umich.edu/~mejn/cp/chapters/int.pdf)| Integration Powerpoint on BB|Final Project Outline Due|
+|Mar 17 | Finer Points on Numerical Integration and Error Estimation |[Romberg Method](https://en.wikipedia.org/wiki/Romberg%27s_method)|	|Project #1 Due|
+|Mar 19 |ODE Solvers in MATLAB	| [Runge-Kutta Method](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods), [Choosing a MATLAB function](https://www.mathworks.com/help/matlab/math/choose-an-ode-solver.html), [Starting point in MathWorks Doc](https://www.mathworks.com/help/matlab/ordinary-differential-equations.html)|Project #2||
+|Mar 24 | ODE Solvers	in Python	|[Scipy Doc for ODEs](https://docs.scipy.org/doc/scipy/reference/integrate.html), [ODEs Examples in Python's Scipy](https://apmonitor.com/pdc/index.php/Main/SolveDifferentialEquations)| ||
+|Mar 26 | 2nd Order Differential Equations | [2nd to 1st order Reference sheet](https://projects.ncsu.edu/crsc/events/ugw05/slides/root_handout2.pdf)| Writing a program together||
+|Mar 31 |Random Number Generators | [MATLAB's Random Number Generators](https://www.mathworks.com/help/matlab/random-number-generation.html), [Python's Random Number Generators](https://machinelearningmastery.com/how-to-generate-random-numbers-in-python) [Mersenne Twistor Method](https://en.wikipedia.org/wiki/Mersenne_Twister)|||
+|Apr 2 | Mathematica Scripting	|[Quick Mathematica Reference](http://www.wolfram.com/language/fast-introduction-for-programmers/en/options/)| 		||Final Project First Draft Due|
+|Apr 7	| Final Project Feedback Time	|[Active vs Passive Voice in writing](https://www.yourdictionary.com/index.php/pdf/articles/192.activevspassivevoice.pdf) | Bring Final Project Materials||Projet #2 Due|
+|Apr 9	|Mathematica Advanced Tools	|[Manipulate](https://reference.wolfram.com/language/tutorial/IntroductionToManipulate.html), [Defining Functions](https://reference.wolfram.com/language/tutorial/DefiningFunctions.html)|||
+|Apr 14|  ||||
+
 <!----
 | Feb 4 | Functions in Python (Writing your own Packages) |[Python Functions](https://www.tutorialspoint.com/python/python_functions.htm), [matploblib animations](https://matplotlib.org/api/animation_api.html) | |
 | Feb 6 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html), [Python Error Handling](https://realpython.com/python-exceptions/)|BB Powerpoint: Good Programming Practices
