@@ -38,6 +38,10 @@
 1. 'nestedsortstruct()' is a mathwork central function
 1. Mathworks File exchange is a good reference
 1. use `isnan` to find not-a-number missing data
+## Python
+1. Exponent in python is not `^` but `**`
+1. Indexing in python is very different from MATLAB, due to indexing starting at 0.
+
 ## General
 1. Know your extensions (saving file with wrong, it's trouble).
 1. Graphics have thousands of options
