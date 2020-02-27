@@ -1,4 +1,4 @@
-# Problem 6 "Conjunction Junction what's your Function"
+# Problem 6 "Conjunction Junction what's your Function in Python"
 ## Outcomes
 - Correct code in python
 - Explore differences in syntax 
